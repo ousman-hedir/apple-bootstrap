@@ -1,0 +1,100 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.fixed-top img{
+	width: 20px;
+}
+a:hover{
+	color: red;
+	border-bottom: 0.01em solid blue ;
+}
+.top-100 {
+	margin-top: 55px;
+	background-color: #fafafa;
+}
+.direction-color a{
+	color: #FDADFA;
+}
+.first-bg{
+	background-image: url(../images/all/iphone-pro.html\ ls.jpg);
+	height: 630px;
+	background-size: initial;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-repeat: no-repeat;
+}
+.second-bg {
+	background-image: url(../images/all/iphone-14.html\ large.jpg);
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 450px;
+}
+.paragraph {
+	font-size: 2em;
+}
+.third-bg {
+	background-image: url(../images/all/creativity-large.jpg);
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 550px;
+}
+/*-********double part start****/
+/*--fourth start--*/
+
+.left-side {
+	background-image: url(../images/all/watch_large.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 620px;
+}
+.right-side {
+	background-image: url(../images/all/ipad_large.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 620px;
+}
+/*-----fouth end----*/
+/*-------fifth start---*/
+.fifth-section .left-side {
+	background-image: url(../images/all/mbp__large.jpg);
+	height: 600px;
+}
+.fifth-section .servant {
+	padding-top: 170px;
+}
+.fifth-section .right-side {
+	background-image: url(../images/all/homepod_large.jpg);
+	background-size: initial;
+	background-color: #000;
+	background-position: bottom;
+
+	height: 600px;
+}
+/*-------fifth end---*/
+/*------sixth start---*/
+.sixth-section .left-side {
+	background-image: url(../images/all/airpods_pro_large.jpg);
+	height: 550px;
+	background-position: bottom;
+	background-size: initial;
+	background-color: #fafafa;
+}
+.sixth-section .right-side {
+	background-image: url(../images/all/card_large.jpg);
+	height: 600px;
+	background-position: bottom;
+	background-size: initial;
+	background-color: #fafafa;
+}
+/*----sixthe end---*/
+
+/*-********double part end****/
